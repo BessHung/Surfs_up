@@ -15,7 +15,10 @@ There are the summary statistics of recorded temperature for June and December:
 <img src="analysis/Fig1.png" width=60% height=60%>
 
 ## Summary
-
+1. As wee can see from the temperature recorded, the average, median, IQR（interquartile range) and max temperature are very close between June and December. Both are in the appropriate condition for people to surfing or having an ice cream. However, the recorded temperature in December has changed more than in June, it would be better have some adjustments or alternative plans for running the shop in December.
+2. Further, precipitation is one of the most important factors we would like to consider. We can see the amount of precipitation in June and December in the table **summary statistics of precipitation for June vs December**. The amount of precipitation in both month are perfect to keep everything green, but not so much that could lose out an ideal of surfing and ice cream.
+3. To determine the location of the surf's shop, another query for stations. The table **Summary statistics by station for June** and **Summary statistics by station for December** summarize the temperature, precipitation and the number of recorded of each stations. We can find out the place near the stations such as USC00513117 and USC00514830, they not only have the proper amount of precipitation to keep everython in good condition but also have the confortable temperature for surfing.
+4. Overall, it seems having a big chance to running a surf and ice cream shop business, but it should be considered other important variables that may have an effect on the business, including wind speed, the wave, the number of tourist, the number of existing surf shop, and so on.
 
 ###### Summary statistics of precipitation for June vs December
 <img src="analysis/Summary_Statistics_prcp.png">
